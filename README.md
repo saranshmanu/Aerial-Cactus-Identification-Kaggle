@@ -7,7 +7,7 @@ To assess the impact of climate change on Earth's flora and fauna, it is vital t
 
 In the competition we had created a CNN model using Pytorch to classify the images samples in which there is a higher chances of finding a cactus plant from the images which did not have any cactus.
 
-<center><img src = "dataset/readme.jpg"></center>
+<center><img src = "dataset/readme.png"></center>
 
 ### Result
 
